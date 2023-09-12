@@ -93,6 +93,7 @@ const Contact = () => {
               value={form.name}
               onChange={handleChange}
               placeholder="What's your good name?"
+              required="required"
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>
@@ -101,6 +102,7 @@ const Contact = () => {
             <input
               type='email'
               name='email'
+              required="required"
               value={form.email}
               onChange={handleChange}
               placeholder="What's your web address?"
@@ -113,6 +115,7 @@ const Contact = () => {
               rows={7}
               name='message'
               value={form.message}
+              required="required"
               onChange={handleChange}
               placeholder='What you want to say?'
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
