@@ -14,7 +14,7 @@ const Resume = () => {
         }}
       >
         <a
-          href="/resume.pdf" className="bg-slate-800 hover:bg-slate-700 text-white font-bold py-2 px-4 rounded "
+          href="/RESUMEs.pdf" className="bg-slate-800 hover:bg-slate-700 text-white font-bold py-2 px-4 rounded "
           style={{
             display: "flex",
             justifyContent: "center",
