@@ -30,6 +30,13 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+// project images
+import weather from "./Weatherapp.png";
+import pyp from "./previos-year.png";
+import sociopedia from "./Sociopedia.png";
+import ichat from "./ichat.png";
+import portfolio from "./portfolio.png";
+
 export {
   logo,
   backend,
@@ -59,4 +66,10 @@ export {
   carrent,
   jobit,
   tripguide,
+
+  weather,
+  pyp,
+  sociopedia,
+  ichat,
+  portfolio
 };

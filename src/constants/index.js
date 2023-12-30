@@ -23,6 +23,11 @@ import {
     jobit,
     tripguide,
     threejs,
+    weather,
+    pyp,
+    sociopedia,
+    ichat,
+    portfolio
   } from "../assets";
   
   export const navLinks = [
@@ -198,8 +203,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/Thindnavdeep",
+      image: weather,
+      source_code_link: "https://thindnavdeep.github.io/Weather-web-application/",
     },
     {
       name: "Previous Year Paper",
@@ -227,8 +232,8 @@ import {
           color: "text-purple-600",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/Thindnavdeep",
+      image: pyp,
+      source_code_link: "https://pyp-pu.cyclic.app/",
     },
     {
       name: "SocioPedia",
@@ -264,8 +269,8 @@ import {
           color: "text-pink-400",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: sociopedia,
+      source_code_link: "https://github.com/Thindnavdeep/Mern_Application",
     },
     {
       name: "I chat⭐",
@@ -297,8 +302,8 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: ichat,
+      source_code_link: "https://chat-web-application-two.vercel.app/",
     },
     {
       name: "PortFolio",
@@ -330,8 +335,8 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: portfolio,
+      source_code_link: "https://navdeepthind-portfolio.vercel.app/",
     },
   ];
   
