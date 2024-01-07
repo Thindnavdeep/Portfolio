@@ -270,7 +270,7 @@ import {
         },
       ],
       image: sociopedia,
-      source_code_link: "https://github.com/Thindnavdeep/Mern_Application",
+      source_code_link: "https://github.com/Thindnavdeep/Sociopedia",
     },
     {
       name: "I chat⭐",
