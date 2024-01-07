@@ -47,7 +47,7 @@ const Contact = () => {
           to_email: "navdeepthind1001@gmail.com",
           message: form.message,
         },
-        '5TRK3zj-T_ZIYM0P6'
+        'KQzTJYnaaqOh1WDvK'
       )
       .then(
         () => {
