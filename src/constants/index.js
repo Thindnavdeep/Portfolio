@@ -27,7 +27,8 @@ import {
     pyp,
     sociopedia,
     ichat,
-    portfolio
+    portfolio,
+    devStore
   } from "../assets";
   
   export const navLinks = [
@@ -271,6 +272,51 @@ import {
       ],
       image: sociopedia,
       source_code_link: "https://github.com/Thindnavdeep/Sociopedia",
+    },
+    {
+      name: "DevStore",
+      description:
+        `Cloud data storage application created using MERN Stack technology and Cloudinary Cloud API.
+        It allows you to store data like Images, videos so that you can release it from your phone storage.
+        For data privacy and security your data will be stored to AWS S3 bucket and proper verification is required to login.
+        Modern Drag and drop feature lets you to upload the file in easy way.
+        Need to verify your email first then you can have access to your admin panel`,
+      tags: [
+        {
+          name: "NodeJS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "ExpressJS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Mongoose",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Css",
+          color: "text-purple-600",
+        },
+        {
+          name: "Javascript",
+          color: "green-text-gradient",
+        },
+        {
+          name:"Cloudnary API",
+          color:"pink-text-gradient"
+        },
+        {
+          name: "Socket.io",
+          color: "text-purple-600",
+        },
+      ],
+      image: devStore,
+      source_code_link: "https://dev-stores-alpha.vercel.app/",
     },
     {
       name: "I chat⭐",
