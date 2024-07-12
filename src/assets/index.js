@@ -36,6 +36,7 @@ import pyp from "./previos-year.png";
 import sociopedia from "./Sociopedia.png";
 import ichat from "./ichat.png";
 import portfolio from "./portfolio.png";
+import devStore from "./devStore.png"
 
 export {
   logo,
@@ -71,5 +72,6 @@ export {
   pyp,
   sociopedia,
   ichat,
-  portfolio
+  portfolio,
+  devStore
 };
